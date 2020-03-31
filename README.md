@@ -35,5 +35,5 @@ Automatically restart after installing the kernel, automatically install BBR2 an
 运行即可
 > [https://www.miaomiaomiao.org/6161.html](https://www.miaomiaomiao.org/6161.html)
 ``` 
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssh_port.sh && chmod +x ssh_port.sh && bash ssh_port.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/yuannuaa/perosonal_utility/raw/master/ssh_port.sh && chmod +x ssh_port.sh && bash ssh_port.sh
 ```
